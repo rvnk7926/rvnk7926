@@ -4,9 +4,10 @@
 
 
 ## :dart: Overview
-Currently working at <b>KUKA Taiwan</b> as <u>application engineer</u>, mainly focusing mobile robot (KMR) application software deverlopment with headquarter AGV solution department. Also, parallelly in charge of technical support team leader in Taiwan for mobile robot (KMR). Had an experience for leading 15 engineers to install and commssioning mobile robot (KMR) in world leading semiconductor manufacturing company.
+Currently working at <b>KUKA Taiwan</b> as <u>Application Supervisor</u>. Leading a team with 5 engineers for mobile robot (KMR) application deverlopment. In parallel, also in charge of mobile robot (KMR) technical support team leader in Taiwan. 
+Previously was an application engineer for developing mobile robot application with a multinational team in HQ AGV solution team, also lead a team with 15 engineers to install and commssioning mobile robot (KMR) in world leading semiconductor manufacturing company.
 
-Previously was R&D engineer in a startup company for developing mecanum wheel AGV from scratch; which I was exposed to kinematics, SLAM, and path planning algorithm development. Also had a project experience in Google for constructing data center during student period.
+Before in KUKA was a R&D engineer in a startup company for developing mecanum wheel AGV from scratch; which I was exposed to kinematics, SLAM, and path planning algorithm development. Also had a project experience in Google for constructing data center during student period.
 
 
 
@@ -16,6 +17,12 @@ Previously was R&D engineer in a startup company for developing mecanum wheel AG
 
 
 ## :wrench: Professional History within Robotics Industry
+   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Application Supervisor</u>, Full Time Employment
+      * Lead a Team with 5 Engineers for Mobile Robot Application Development with Agile Framework.
+      * Management of Software Development for Automated Material Handling System.
+      * Consultant of Mobile Robot Solutions in Taiwan.
+      * Technical Support Team Leader for Mobile Robot 
+   
    * <b>KUKA Automation Taiwan Ltd.</b>, <u>Application Engineer</u>, Full Time Employment
       * Application Development with Multinational Team in HQ AGV Solution Department.
       * Technical Support Team Leader for Mobile Robot in Taiwan.
