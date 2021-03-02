@@ -4,8 +4,8 @@
 
 
 ## :dart: Overview
-Currently working at <b>KUKA Taiwan</b> as <u>Application Supervisor</u>. Leading a team with 5 engineers for mobile robot (KMR) application deverlopment. In parallel, also in charge of mobile robot (KMR) technical support team leader in Taiwan. 
-Previously was an application engineer for developing mobile robot application with a multinational team in HQ AGV solution team, also lead a team with 15 engineers to install and commssioning mobile robot (KMR) in world leading semiconductor manufacturing company.
+Currently working at <b>KUKA Taiwan</b> as <u>Applications Supervisor</u>. Leading a team with 5 engineers for mobile robot (KMR) applications deverlopment. In parallel, also in charge of mobile robot (KMR) technical support team leader in Taiwan. 
+Previously was an applications engineer for developing mobile robot applications with a multinational team in HQ AGV solution team, also lead a team with 15 engineers to install and commssioning mobile robot (KMR) in world leading semiconductor manufacturing company.
 
 Before in KUKA was a R&D engineer in a startup company for developing mecanum wheel AGV from scratch; which I was exposed to kinematics, SLAM, and path planning algorithm development. Also had a project experience in Google for constructing data center during student period.
 
@@ -17,14 +17,15 @@ Before in KUKA was a R&D engineer in a startup company for developing mecanum wh
 
 
 ## :wrench: Professional History within Robotics Industry
-   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Application Supervisor</u>, Full Time Employment
-      * Lead a Team with 5 Engineers for Mobile Robot Application Development with Agile Framework.
-      * Management of Software Development for Automated Material Handling System.
-      * Consultant of Mobile Robot Solutions in Taiwan.
-      * Technical Support Team Leader for Mobile Robot 
+   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Supervisor</u>, Full Time Employment
+      * Lead a Team with 5 Engineers for Mobile Robot Applications Development with Agile Framework.
+      * Software Development for Automated Material Handling System.
+      * Coordinator Between KUKA Germany and Customer Site to Realize Mass Production. 
+      * Providing Mobile Robot Solutions Technical Proposal to Sales for Supporting Potential Customer Development.
+      * Technical Support Team Leader for Mobile Robot.   
    
-   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Application Engineer</u>, Full Time Employment
-      * Application Development with Multinational Team in HQ AGV Solution Department.
+   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Engineer</u>, Full Time Employment
+      * Applications Development with Multinational Team in HQ AGV Solution Department.
       * Technical Support Team Leader for Mobile Robot in Taiwan.
       * Lead a Team with 15 Engineers for Mobile Robot Installation and Commissioning.
       * System Partner Trainer for Mobile Robot.
