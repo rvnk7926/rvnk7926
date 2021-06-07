@@ -4,24 +4,29 @@
 
 
 ## :dart: Overview
-Currently working at <b>KUKA Taiwan</b> as <u>Applications Supervisor</u>. Leading a team with 5 engineers for mobile robot (KMR) applications deverlopment. In parallel, also in charge of mobile robot (KMR) technical support team leader in Taiwan. 
-Previously was an applications engineer for developing mobile robot applications with a multinational team in HQ AGV solution team, also lead a team with 15 engineers to install and commssioning mobile robot (KMR) in world leading semiconductor manufacturing company.
+Currently growing with a team as a team leader in applications development, which is to delegat and mentor team members to deliver autonomous mobile robotics and 7-axis collaborative robotics applications by comprehend and refine the customer requirement.
 
-Before in KUKA was a R&D engineer in a startup company for developing mecanum wheel AGV from scratch; which I was exposed to kinematics, SLAM, and path planning algorithm development. Also had a project experience in Google for constructing data center during student period.
+As a resourceful eager learner and goal-oriented personality, I'm also a strong team player, experienced in multinational and cross-functional teams.
+Skilled in Java, AngularJS, C#, Git, Software Development, Applications Engineering, and Leadership.
 
+Experienced in automated guided vehicle (AGV) development with Kinematics, SLAM, and Path Planning Algorithm Development. 
+Had a project Experience in Google data center during student period.
+
+Strong engineering professional from dual Master's Degree with full scholarship:
+- Major in Software and Information Science in Japan Iwate Prefectural University
+- Major in Computer Science & Information Engineering in Taiwan ChaoYang University of Technology
 
 
 ## :man: Personality
-    An resourceful eager learner with goal oriented and performance driven
-
+    A resourceful eager learner with goal-oriented thinking
 
 
 ## :wrench: Professional History within Robotics Industry
    * <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Supervisor</u>, Full Time Employment
       * Lead a Team with 5 Engineers for Mobile Robot Applications Development with Agile Framework.
       * Software Development for Automated Material Handling System.
-      * Coordinator Between KUKA Germany and Customer Site to Realize Mass Production. 
-      * Providing Mobile Robot Solutions Technical Proposal to Sales for Supporting Potential Customer Development.
+      * Coordinator Between KUKA HQ and Customer Site to Realize Mass Production. 
+      * Providing Mobile Robot Solutions Technical Proposal to Sales Team to Support Business Development.
       * Technical Support Team Leader for Mobile Robot.   
    
    * <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Engineer</u>, Full Time Employment
@@ -33,7 +38,7 @@ Before in KUKA was a R&D engineer in a startup company for developing mecanum wh
       
    * <b>Uni-Innovate Technology Co., Ltd.</b>, <u>R&D Engineer</u>, Full Time Employment
       * Mecanum Wheels AGV Development from Scratch.
-      * 2D Laser Scanner SLAM based on Grid Map.
+      * Navigation Algorithm Development by using 2D Lidar SLAM based on Grid Map.
       * Kinematics and Motion Library Development.
       * Path Planning and Obstacle Avoidance Algorithm Development.
       * Multiple AGV Communication Development and Protocol Definition.
@@ -76,6 +81,7 @@ Before in KUKA was a R&D engineer in a startup company for developing mecanum wh
 
 
 ## :trophy: Award
+   * Oct. 2020 - Champion of Intercollegiate Tennis Team Tournament
    * Nov. 2019 - Champion of Fullhouse Cup National Tennis Team Tournament
    * May. 2014 - 2nd of Maxxis Cup National Tennis Team Tournament
    * May. 2013 - 2nd of Maxxis Cup National Tennis Team Tournament
@@ -88,7 +94,7 @@ Before in KUKA was a R&D engineer in a startup company for developing mecanum wh
 
 
 ## :computer: Programming Skills
-| Java      | C#        | C/C++ | Matlab  |
+| Java      | AngularJS | C#    | Matlab  |
 |:---------:|:---------:|:-----:|:-------:|
 | Very Good | Very Good | Good  | Good    | 
 
