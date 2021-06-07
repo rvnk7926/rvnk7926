@@ -9,8 +9,7 @@ Currently growing with a team as a team leader in applications development, whic
 As a resourceful eager learner and goal-oriented personality, I'm also a strong team player, experienced in multinational and cross-functional teams.
 Skilled in Java, AngularJS, C#, Git, Software Development, Applications Engineering, and Leadership.
 
-Experienced in automated guided vehicle (AGV) development with Kinematics, SLAM, and Path Planning Algorithm Development. 
-Had a project Experience in Google data center during student period.
+Experienced in automated guided vehicle (AGV) development with Kinematics, SLAM, and Path Planning Algorithm Development. Also had a project experience in Google data center during student period.
 
 Strong engineering professional from dual Master's Degree with full scholarship:
 - Major in Software and Information Science in Japan Iwate Prefectural University
