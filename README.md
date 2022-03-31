@@ -4,16 +4,16 @@
 
 
 ## :dart: Overview
-Currently growing with a team as a team leader in applications development, which is to delegat and mentor team members to deliver autonomous mobile robotics and 7-axis collaborative robotics applications by comprehend and refine the customer requirement.
+As a resourceful eager learner and goal-oriented personality, I'm also a strong team player, experienced in multinational and cross-functional teams. 
 
-As a resourceful eager learner and goal-oriented personality, I'm also a strong team player, experienced in multinational and cross-functional teams.
-Skilled in Java, AngularJS, C#, Git, Software Development, Applications Engineering, and Leadership.
-
-Experienced in automated guided vehicle (AGV) development with Kinematics, SLAM, and Path Planning Algorithm Development. Also had a project experience in Google data center during student period.
+Experienced in autonomous mobile robotics (AMR), 7-axis collaborative robotics (Cobot) applications development with Path Planning, Dispatch Optimization, Fleet Management. Furthermore, experienced in automated guided vehicle (AGV) research and development with Kinematics, SLAM, and Path Planning Algorithm Development.
+Skilled in Java, AngularJS, C#, Protobuf, Multi-Agent System, Concurrent Systems, Git, Software Development, Applications Engineering, and Leadership.
 
 Strong engineering professional from dual Master's Degree with full scholarship:
 - Major in Software and Information Science in Japan Iwate Prefectural University
 - Major in Computer Science & Information Engineering in Taiwan ChaoYang University of Technology
+
+When I'm not working, I'm a tennis, hiking, camping enthusiast. ;)
 
 
 ## :man: Personality
@@ -21,61 +21,75 @@ Strong engineering professional from dual Master's Degree with full scholarship:
 
 
 ## :wrench: Professional History within Robotics Industry
-   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Supervisor</u>, Full Time Employment
-      * Lead a Team with 5 Engineers for Mobile Robot Applications Development with Agile Framework.
-      * Software Development for Automated Material Handling System.
-      * Coordinator Between KUKA HQ and Customer Site to Realize Mass Production. 
-      * Providing Mobile Robot Solutions Technical Proposal to Sales Team to Support Business Development.
-      * Technical Support Team Leader for Mobile Robot.   
+   * [11/2021 - Present] - <b>T-Hive</b>, <u>Software Engineer</u>, Full Time Employment
+       * Software Development for Integrate Vehicle Protocols to Achieve Cross-Platform Operation.
+       * Software Development for AGF Emulation with Operation Panel by Integrating Protocols.
+       * Software Development for Restructure a Fraction of Parameters/Attributes be Configurable.
+       * Software Development for an Universal AGV/AGF Emulation Platform.
+       * Software Development for a Seamless Control System across Various Automated Vehicles (incl. AGF, AMR, AGV).
+       * Material Handling System Development for Wharf Project Across Multinational Team.
    
-   * <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Engineer</u>, Full Time Employment
-      * Applications Development with Multinational Team in HQ AGV Solution Department.
-      * Technical Support Team Leader for Mobile Robot in Taiwan.
+   * [Sep.2020 ~ Nov.2021] - <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Supervisor</u>, Full Time Employment
+      * Lead a Team with 5 Engineers for Autonomous Mobile Robotics and 7-axis Collaborative Robotics Applications Development.
+      * Software Development for Automated Material Handling System with SECS Protocol.
+      * Software Development for SECS Protocol Customization to fulfill Customer Requirements.
+      * Software Development for Path Planner which Checks Reachability and Plans Future Path with Configurable Duration.
+      * Software Development for Detour Mechanism to Resolve Route Conflict in Fleet Management.
+      * Software Development for Job Dispatch Optimization Based On Available Vehicles and Configurable Buffer Size.
+      * Technical Support for Sales Team for Business Development
+      * Technical Support Team Leader for Mobile Robot.
+  
+   * [Oct.2017 ~ Sep.2020] - <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Engineer</u>, Full Time Employment
+      * Mobile Robotics Applications Development with Multinational Team in KUKA Germany (HQ).
       * Lead a Team with 15 Engineers for Mobile Robot Installation and Commissioning.
-      * System Partner Trainer for Mobile Robot.
-      * Mobile Robot Training Syllabus Written and SOP Documentation.
+      * Mobile Robot Trainer in Taiwan with Training Syllabus and SOP Documentation.
+      * Provide Bug-Fixes or On-Site Diagnosis to KUKA Germany (HQ).
+      * Coordinator Between KUKA Germany (HQ) and Customer Site to Realize Mass Production.
+      * Technical Support Team Leader for Mobile Robot in Taiwan.
       
-   * <b>Uni-Innovate Technology Co., Ltd.</b>, <u>R&D Engineer</u>, Full Time Employment
-      * Mecanum Wheels AGV Development from Scratch.
-      * Navigation Algorithm Development by using 2D Lidar SLAM based on Grid Map.
-      * Kinematics and Motion Library Development.
-      * Path Planning and Obstacle Avoidance Algorithm Development.
-      * Multiple AGV Communication Development and Protocol Definition.
+   * [Apr.2017 ~ Oct.2017] - <b>Uni-Innovate Technology Co., Ltd.</b>, <u>R&D Engineer</u>, Full Time Employment
+      * Research and Development for Mecanum Wheels AGV with SLAM Navigation from Scratch.
+      * 2D LiDAR SLAM Development Based on Grid Map.
+      * 2D LiDAR Navigation Development with Realtime Reaction When Target Location Changes.
+      * 2D LiDAR Obstacle Avoidance Algorithm Development.
+      * Mecanum Wheels AGV Kinematics and Motion Library Development.
+      * Multiple AGV Communication Development and Protocol Definition
+      * [Side Project] System Engineering for Retrofitting Electric Trailer as AGV by Using Magnetic Tape Tracking Mechanism
 
 
 ## :floppy_disk: Additional Career Experience
-   * <b>Army of Brigade No.269</b>, <u>Budget and Finance Sergeant</u>, Compulsory Military Service
+   * [May.2016 ~ Apr.2017] - <b>Army of Brigade No.269</b>, <u>Budget and Finance Sergeant</u>, Compulsory Military Service
       * Finance Management and Budget Control.
       * Salary and Bonus Calculation.
-   * <b>Google</b>, <u>Data Center Engineer</u>, Project Contract
-     * Collaborate with IT department to Improve Efficiency.
-     * Troubleshoot Network System to Ensures Network Connections
-     * Commissioning Network System and Managing Internal Network Structure.
-   * <b>ROMP Enterprise Co. Ltd.</b>, <u>Android Application Developer</u>, Master Thesis
+   * [Jun.2014 ~ Jun.2014] - <b>Google</b>, <u>Data Center Engineer</u>, Project Contract
+     * Commissioning and Troubleshoot to Build Google Data Center in Changhua, Taiwan.
+     * Troubleshoot Network System to Ensures Network Connections.
+     * Managing Internal Network Structure and Collaborate with IT Department to Improve Network Efficiency
+   * [Jan.2013 - Feb/2014] - <b>ROMP Enterprise Co. Ltd.</b>, <u>Android Application Developer</u>, Master Thesis
       * Android Application Development for Industrial Temperature Control System.
 
 
 
 ## :mortar_board: Education
 #### :small_blue_diamond: Master Degree
-   * <strong>Iwate Prefectural Unversity</strong>, Iwate, Japan
+   * [Apr.2015 ~ Mar.2016] - <b>Iwate Prefectural Unversity</b>, Iwate, Japan
       * Software and Information Science
       * Dual Master Degree Program with Full Scholarship and Guaranteed Graduate in 1 Year with Master Thesis
-   * <b>ChaoYang University of Technology</b>, Taichung, Taiwan
+   * [Sep.2012 ~ Mar.2016] - <b>ChaoYang University of Technology</b>, Taichung, Taiwan
       * Computer Science and Information Engineering
 #### :small_blue_diamond: Bachelor Degree
-   * <b>ChaoYang University of Technology</b>, Taichung, Taiwan
+   * [Sep.2008 ~ Jun.2012] - <b>ChaoYang University of Technology</b>, Taichung, Taiwan
       * Computer Science and Information Engineering
 
 
 
 ## :muscle: School activities
    * <b>Iwate Prefectural University</b>, Iwate, Japan
-      * Member of Tennis Varsity
+      * [Apr.2015 ~ Mar.2016] - Member of Tennis Varsity
    * <b>Chaoyang University of Technology</b>, Taichung,Taiwan
-      * Vice Captain of Tennis Varsity
+      * [Sep.2011 ~ Jun.2012] - Vice Captain of Tennis Varsity
    * <b>Chaoyang University of Technology</b>, Taichung, Taiwan
-      * Member of Tennis Varsity
+      * [Sep.2008 ~ Jun.2011] - Member of Tennis Varsity
 
 
 
