@@ -21,14 +21,19 @@ When I'm not working, I'm a tennis, hiking, camping enthusiast. ;)
 
 
 ## :wrench: Professional History within Robotics Industry
-   * [11/2021 - Present] - <b>T-Hive</b>, <u>Software Engineer</u>, Full Time Employment
-       * Software Development for Integrate Vehicle Protocols to Achieve Cross-Platform Operation.
-       * Software Development for AGF Emulation with Operation Panel by Integrating Protocols.
-       * Software Development for Restructure a Fraction of Parameters/Attributes be Configurable.
-       * Software Development for an Universal AGV/AGF Emulation Platform.
-       * Software Development for a Seamless Control System across Various Automated Vehicles (incl. AGF, AMR, AGV).
-       * Material Handling System Development for Wharf Project Across Multinational Team.
-   
+   * [Nov.2021 - Present] - <b>Vanderlande B.V.</b>, <u>Software Lead</u>, Full Time Employment
+      * Seconded for Software Development in TICO (Toyota Industries Corporation) Startup.
+      * Seconded as Consultant/Developer for Developing Wharf Material Handling System Across Multinational Team.
+
+   * [Nov.2021 - Present] - <b>T-Hive</b>, <u>Software Engineer</u>, Full Time Employment
+      * Software Development for AGV/AGF Emulatior based on Java.
+      * Software Development for Integrate Vehicle Protocols to Achieve Cross-Platform Operation.
+      * Software Development for AGF/AGV Emulatior with Operation Panel by Integrating Various Protocols (VDA5050/VCP9412).
+      * Software Development for a Seamless Control System across Various Automated Vehicles (incl. AGF, AMR, AGV).
+      * Software Development for Shipyard Equipment Emulations (e.g. QC, RTG, TT).
+      * Software Development for Truck Path Planning Based on Dijkstra Algorithm.
+      * Software Development for TOS (Terminal Operation System) Emulator.
+
    * [Sep.2020 ~ Nov.2021] - <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Supervisor</u>, Full Time Employment
       * Lead a Team with 5 Engineers for Autonomous Mobile Robotics and 7-axis Collaborative Robotics Applications Development.
       * Software Development for Automated Material Handling System with SECS Protocol.
@@ -38,7 +43,7 @@ When I'm not working, I'm a tennis, hiking, camping enthusiast. ;)
       * Software Development for Job Dispatch Optimization Based On Available Vehicles and Configurable Buffer Size.
       * Technical Support for Sales Team for Business Development
       * Technical Support Team Leader for Mobile Robot.
-  
+
    * [Oct.2017 ~ Sep.2020] - <b>KUKA Automation Taiwan Ltd.</b>, <u>Applications Engineer</u>, Full Time Employment
       * Mobile Robotics Applications Development with Multinational Team in KUKA Germany (HQ).
       * Lead a Team with 15 Engineers for Mobile Robot Installation and Commissioning.
@@ -107,9 +112,9 @@ When I'm not working, I'm a tennis, hiking, camping enthusiast. ;)
 
 
 ## :computer: Programming Skills
-| Java      | AngularJS | C#    | Matlab  |
-|:---------:|:---------:|:-----:|:-------:|
-| Very Good | Very Good | Good  | Good    | 
+| Java      | AngularJS | C#    |
+|:---------:|:---------:|:-----:|
+| Very Good | Very Good | Good  |
 
 
 ## :loudspeaker: Languages
